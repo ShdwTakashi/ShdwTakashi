@@ -1,4 +1,4 @@
-![Shadow Takashi](https://github.com/ShdwTakashi/ShdwTakashi/assets/113185975/5f733929-b221-4ab3-b8a5-19310c7e2868)
------
+![Hybrid Kid](https://github.com/user-attachments/assets/9be2cfda-e238-4043-84fb-9866477bb912)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShdwTakashi"></img>
+
+<a href="https://github.com/ShdwTakashi"> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ShdwTakashi" width="50%" /> </a> <a href="https://github.com/ShdwTakashi"> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShdwTakashi&layout=compact" width="43%" /> </a>
